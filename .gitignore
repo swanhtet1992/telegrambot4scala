@@ -1,0 +1,14 @@
+# Class files
+*.class
+
+# OSX files
+.DS_Store
+
+# IntelliJ
+.idea/
+.gradle
+build/
+*.iml
+
+# Telegram Token
+telebot.token
